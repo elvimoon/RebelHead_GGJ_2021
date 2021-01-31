@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.log
+*.log
+RebelHeadGGJ2021/Saved/Logs/RebelHeadGGJ2021_2.log
+RebelHeadGGJ2021/Saved/Logs/RebelHeadGGJ2021.log
+*.log
+*.log
+*.ini
+RebelHeadGGJ2021/Saved/Config/Windows/PIEGameUserSettings0.ini
